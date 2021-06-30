@@ -87,10 +87,10 @@ public class C_Scene : MonoBehaviour
             while (counter < timeBetweenTextParagraph)
             {
                 counter += Time.deltaTime;
-                alpha += counter / timeBetweenTextParagraph;
+                alpha = counter / timeBetweenTextParagraph;
                 newcolor.a = alpha;
                 ChangeTextMeshColor(Ntext, newcolor);
-                yield return new WaitForSeconds(Time.deltaTime);
+                yield return new WaitForEndOfFrame();
             }
 
             INFinishedParagraph?.Invoke();

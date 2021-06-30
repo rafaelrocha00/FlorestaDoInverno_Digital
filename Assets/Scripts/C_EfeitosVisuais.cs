@@ -40,7 +40,7 @@ public class C_EfeitosVisuais : MonoBehaviour
         float counter = 0f;
         while(counter < Avaliabletime)
         {
-            counter += 0.1f;
+            counter += Time.deltaTime;
             float resultForShader = counter / Avaliabletime;
             currentEffect.SetFloat("_Threshold", resultForShader);
             yield return new WaitForEndOfFrame();
@@ -55,7 +55,7 @@ public class C_EfeitosVisuais : MonoBehaviour
         float counter = 0f;
         while (counter < Avaliabletime)
         {
-            counter += 0.1f;
+            counter += Time.deltaTime;
             float resultForShader = counter / Avaliabletime;
             currentEffect.SetFloat("_Threshold", 1 - resultForShader);
             yield return new WaitForEndOfFrame();
