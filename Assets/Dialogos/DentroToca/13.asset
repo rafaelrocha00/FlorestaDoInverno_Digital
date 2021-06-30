@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7639417119aa64948be71180c67c19c2, type: 3}
+  m_Name: 13
+  m_EditorClassIdentifier: 
+  id: 13
+  illustration: 9
+  requirements: []
+  changestate: 0
+  DescricaoDeCena: "Ao entrar no covil, dentro das principais instala\xE7\xF5es,
+    voc\xEA encontra um filhote de urso, preso \xE0s correntes, em um canto frio.
+    \n\nEle parece perigoso. Al\xE9m disso, h\xE1 a presen\xE7a de ossos e resto
+    de refei\xE7\xF5es, perto da comida abundante. \n\nAssim viviam seus membros,
+    sem ter quaisquer preocupa\xE7\xF5es."
+  DescricaoDeCenaIngles: 'Upon entering The Lair, inside the main facilities, you
+    find a bear cub, chained, in a cold corner.
+
+    
+
+    He looks dangerous.
+    In addition, there is the presence of bones and rest of meals, close to abundant
+    food.
+
+    
+
+    This was how the members lived, without having any worries.'
+  choices:
+  - newScene: 18
+    name: Liberta-lo
+    englishName: Free him
+  - newScene: 14
+    name: "Procurar irm\xE3os"
+    englishName: Search Brothers

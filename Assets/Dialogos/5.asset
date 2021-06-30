@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7639417119aa64948be71180c67c19c2, type: 3}
+  m_Name: 5
+  m_EditorClassIdentifier: 
+  id: 5
+  illustration: 4
+  requirements: []
+  changestate: 0
+  DescricaoDeCena: "Ap\xF3s um tempo andando pela floresta, voc\xEA se depara com
+    um castor, Jos\xE9 Casto.  \n\nJos\xE9 pede ajuda para construir um sistema de
+    vala para que a Toca tenha \xE1gua de melhor qualidade.\n\nA Toca \xE9 um grupo
+    de animais que se protegem e dividem comida, ent\xE3o ajud\xE1-los resultaria
+    em v\xE1rios benef\xEDcios para todos. \n\nMas isso demoraria tempo demais."
+  DescricaoDeCenaIngles: "After some time walking through the forest, you are faced
+    with a beaver, Jos\xE9 Casto.\r\n\r\nJos\xE9 asks for help to build a ditch system
+    so that The Burrow has better water.\r\n\r\nThe Burrow is a group of animals
+    that protect and share food, so helping them would result in several benefits
+    for everyone.\r\n\r\nBut that would take too long."
+  choices:
+  - newScene: 6
+    name: Ajudar
+    englishName: Help
+  - newScene: 7
+    name: "N\xE3o ajudar"
+    englishName: Dont Help

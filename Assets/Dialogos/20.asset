@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7639417119aa64948be71180c67c19c2, type: 3}
+  m_Name: 20
+  m_EditorClassIdentifier: 
+  id: 20
+  illustration: 10
+  requirements: []
+  changestate: 0
+  DescricaoDeCena: "Ap\xF3s passar alguns meses, voc\xEA e seu amigo percebem que
+    t\xEAm uma moral implac\xE1vel entre seus companheiros e isso lhes d\xE1 uma
+    ideia: tomar o posto de l\xEDder da Maria.\n\nAp\xF3s conversarem com os outros
+    membros, sem dizer o plano, voc\xEAs percebem que seriam apoiados se aplicasse
+    o Golpe. \n\nVoc\xEA e Ratoulo chegam at\xE9 Maria e dizem que agora quem manda
+    no Covil s\xE3o voc\xEAs. Maria ri de maneira debochada e manda seus capangas
+    atacarem. \n\nAo perceberem que estavam errados a respeito do apoio de seus companheiros,
+    voc\xEAs lutam at\xE9 o fim contra seus ex-companheiros, levando a derrota da
+    batalha e ao fim de suas vidas.\n\nFIM: Golpe de estado"
+  DescricaoDeCenaIngles: 'After a few months have passed, you and your friend realize
+    that you have an implacable morale among your companions and that gives you an
+    idea: to take the position of leader from Maria.
+
+    
+
+    After talking to
+    the other members, without telling the plan, you realize that they would support
+    you.
+
+    
+
+    You and Ratoulo arrive at Maria and say that now you are in
+    chargel. Maria laughs mockingly and tells her henchmen to attack.
+
+    
+
+    When
+    you realize that you were wrong about the support of your companions, you fight
+    to the end against your former allies, leading to your defeat and the end of
+    your lives.
+
+    
+
+    END: Coup d''etat'
+  choices: []

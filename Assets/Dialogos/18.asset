@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7639417119aa64948be71180c67c19c2, type: 3}
+  m_Name: 18
+  m_EditorClassIdentifier: 
+  id: 18
+  illustration: 9
+  requirements:
+  - id: 1
+    state: 1
+  changestate: 1
+  DescricaoDeCena: "Comovido pela situa\xE7\xE3o do pequeno urso, voc\xEA o solta
+    e o mostra o caminho. Ele te segue em busca de sua liberdade."
+  DescricaoDeCenaIngles: Moved by the situation of the little bear, you release him
+    and show him the way. He follows you in search of your freedom.
+  choices:
+  - newScene: 15
+    name: Continuar
+    englishName: Continue

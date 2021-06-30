@@ -1,0 +1,42 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7639417119aa64948be71180c67c19c2, type: 3}
+  m_Name: 11
+  m_EditorClassIdentifier: 
+  id: 11
+  illustration: 5
+  requirements: []
+  changestate: 0
+  DescricaoDeCena: "Voc\xEA volta para o seu esconderijo e percebe que seus irm\xE3os
+    desapareceram. \n\nHavia demorado demais.\n\nVoc\xEA come\xE7a a tremer, falta
+    ar e parece que o ch\xE3o vai se abrir. \n\nVoc\xEA parte para uma busca desesperada
+    pelos seus entes queridos."
+  DescricaoDeCenaIngles: 'You go back to your hiding place and realize that your
+    brothers have disappeared.
+
+    
+
+    You had taked too long.
+
+    
+
+    You
+    start to tremble, you run out of air and it looks like the floor is going to
+    open up.
+
+    
+
+    You set out on a desperate search for your loved ones.'
+  choices:
+  - newScene: 10
+    name: "Procurar irm\xE3os"
+    englishName: Search Brothers

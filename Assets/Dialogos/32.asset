@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7639417119aa64948be71180c67c19c2, type: 3}
+  m_Name: 32
+  m_EditorClassIdentifier: 
+  id: 32
+  illustration: 13
+  requirements: []
+  changestate: 0
+  DescricaoDeCena: "Com a ajuda do urso, a toca se torna uma pot\xEAncia incr\xEDvel
+    e finalmente, depois de tantas batalhas, voc\xEAs conseguem viver em paz.\n\nO
+    inverno n\xE3o ir\xE1 durar para sempre e sabendo disso, voc\xEAs se divertem
+    e se ajudam no tempo de dificuldade, esperando a volta do t\xE3o esperado ver\xE3o.\n\nE
+    mesmo que coisas ruins tenham acontecido ao longo do caminho, voc\xEA est\xE1
+    bem. Afinal de contas:\n\nAquele que ajuda os outros ajuda a si mesmo."
+  DescricaoDeCenaIngles: "\rWith the help of the bear, The Burrow becomes an incredible
+    power and finally, after so many battles, you can live in peace.\r\n\r\nWinter
+    will not last forever and knowing that, you have fun and help each other in times
+    of difficulty, waiting for the return of the long-awaited summer.\r\n\r\nAnd
+    even if bad things happened along the way, you are fine. After all:\r\n\r\nHe
+    who helps others helps himself."
+  choices: []

@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7639417119aa64948be71180c67c19c2, type: 3}
+  m_Name: 21
+  m_EditorClassIdentifier: 
+  id: 21
+  illustration: 11
+  requirements:
+  - id: 0
+    state: 0
+  changestate: 0
+  DescricaoDeCena: "Voc\xEA \xE9 jogada para fora do covil, mas Ratoulo aceita a
+    proposta de Maria.\n\nSem ver seus irm\xE3os, voc\xEA n\xE3o sabe mais o que
+    fazer, al\xE9m de procurar pela floresta sem dire\xE7\xE3o.\n\nN\xE3o demora
+    muito para voc\xEA se perder no meio da mata, onde fica cada vez mais frio.\n\nT\xE3o
+    frio que voc\xEA deixa de sentir seus passos e, eventualmente, perde a vis\xE3o.\n\nFIM:
+    Perdida na floresta.\n"
+  DescricaoDeCenaIngles: 'You are thrown out of the Lair, but Ratoulo accepts Maria''s
+    proposal.
+
+    
+
+    Without seeing your brothers, you don''t know what else
+    to do, other than to search the forest without direction.
+
+    
+
+    It doesn''t
+    take long for you to get lost in the middle of the woods, where it gets colder
+    and colder.
+
+    
+
+    So cold that you stop feeling your steps and eventually
+    lose your vision.
+
+    
+
+    THE END: Lost in the forest.'
+  choices: []

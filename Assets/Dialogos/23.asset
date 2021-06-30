@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7639417119aa64948be71180c67c19c2, type: 3}
+  m_Name: 23
+  m_EditorClassIdentifier: 
+  id: 23
+  illustration: 0
+  requirements: []
+  changestate: 0
+  DescricaoDeCena: "Ap\xF3s o ataque, voc\xEA sai para caminhar e refletir sobre
+    o seu relacionamento com a toca.\n\nAndando pela floresta, voc\xEA se depara
+    com dois corpos de cobras.  Voc\xEA os conhece.\n\nE agora decide tomar uma a\xE7\xE3o."
+  DescricaoDeCenaIngles: 'After the attack, you go for a walk and reflect on your
+    relationship with The Burrow.
+
+    
+
+    Walking through the forest, you come
+    across two bodies of snakes. You know them.
+
+    
+
+    And now you decides
+    to take action.'
+  choices:
+  - newScene: 24
+    name: Continuar
+    englishName: Continue

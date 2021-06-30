@@ -1,0 +1,51 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7639417119aa64948be71180c67c19c2, type: 3}
+  m_Name: 7
+  m_EditorClassIdentifier: 
+  id: 7
+  illustration: 5
+  requirements: []
+  changestate: 0
+  DescricaoDeCena: "Voc\xEA n\xE3o tem tempo para ajudar o castor e continua na sua
+    ca\xE7a por alimentos e, muito adentro na Floresta, voc\xEA encontra uma fam\xEDlia
+    de lemingue.\n\nVoc\xEA os persegue, por\xE9m s\xF3 um foi capturado enquanto
+    os outros fugiram.\n\nJ\xE1 \xE9 tarde para voc\xEA procurar por mais alimentos
+    pois seus irm\xE3os j\xE1 est\xE3o sozinhos a muito tempo. \n\nE voc\xEA precisa
+    decidir quem ficar\xE1 com o animal pego.\n\nAo voltar para a sua casa voc\xEA
+    percebe que seus irm\xE3os desapareceram."
+  DescricaoDeCenaIngles: 'You don''t have time to help the beaver so you continue
+    your hunt for food and, deep into the Forest, you find a lemming family.
+
+    
+
+    You
+    chase them, but you only captured one while the others fled.
+
+    
+
+    It
+    is too late for you to look for more food because your brothers have been alone
+    for a long time.
+
+    
+
+    And you need to decide who gets to eat tonight.
+
+    
+
+    Upon
+    returning to your home you notice that your brothers have disappeared.'
+  choices:
+  - newScene: 16
+    name: "Procurar irm\xE3os"
+    englishName: Search brothers.

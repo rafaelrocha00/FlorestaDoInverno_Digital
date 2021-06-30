@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7639417119aa64948be71180c67c19c2, type: 3}
+  m_Name: 4
+  m_EditorClassIdentifier: 
+  id: 4
+  illustration: 3
+  requirements: []
+  changestate: 0
+  DescricaoDeCena: "Ratoulo te leva at\xE9 a toca. \xC9 um lugar desprotegido, ele
+    diz. As pessoas de l\xE1 s\xE3o fracas, mas t\xEAm comida. \n\nSe pegarem emprestado
+    sem saberem, voc\xEAs poder\xE3o sobreviver pelo inverno. \n\nAproveitam a noite
+    e descem o buraco, chegando ao seu fim. \n\nEst\xE1 praticamente vazio. \n\nVoc\xEAs
+    encontram a comida, pouco, muito menos do que o rato disse que teria. \n\nVoc\xEAs
+    pegam mesmo assim e fogem dali."
+  DescricaoDeCenaIngles: 'Ratoulo takes you to The Burrow. It is an unprotected place,
+    he says. The people there are weak, but they have food.
+
+
+
+    If you borrow
+    without they knowing it, you can survive the winter.
+
+
+
+    You wait the night
+    and go down the hole, reaching its end.
+
+
+
+    It''s practically empty.
+
+
+
+    You
+    find the food, little, much less than the mouse said it would have.
+
+
+
+    You
+    take it anyway and run away.'
+  choices:
+  - newScene: 11
+    name: Continuar
+    englishName: Continue

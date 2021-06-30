@@ -1,0 +1,63 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7639417119aa64948be71180c67c19c2, type: 3}
+  m_Name: 30
+  m_EditorClassIdentifier: 
+  id: 30
+  illustration: 0
+  requirements:
+  - id: 1
+    state: 1
+  - id: 2
+    state: 0
+  changestate: 0
+  DescricaoDeCena: "Algumas semanas depois, o covil ataca novamente.\n\nOs membros
+    da toca resistem, utilizando das defesas que construiram e fazendo um cerco.
+    Mas n\xE3o demora para que as fraquezas come\xE7assem a aparecer.\n\nO covil
+    tem muitas pessoas, o suficiente para destruir as defesas. Com a ajuda do urso,
+    voc\xEAs conseguem resistir e manter a luta.\n\nV\xE1rias pessoas morrerm e,
+    enquanto voc\xEA luta para defender algu\xE9m, acaba caindo no ch\xE3o.\n\nVoc\xEA
+    n\xE3o consegue levantar, mas percebe que a luta j\xE1 est\xE1 acabando. A toca
+    parece ter vencido, mas voc\xEA sente que \xE9 tarde.\n\nEst\xE1 tudo ficando
+    escuro.\nFim: Resistencia."
+  DescricaoDeCenaIngles: 'A few weeks later, the lair strikes again.
+
+    
+
+    The
+    members of The Burrow resist, using the defenses they have built and making a
+    siege. But it doesn''t take long for weaknesses to begin to appear.
+
+    
+
+    The
+    Lair has many people, enough to destroy the defenses. With the help of the bear,
+    you resist and keep the fight going.
+
+    
+
+    Several people die and, while
+    you fight to defend someone, you end up falling to the ground.
+
+    
+
+    You
+    can''t get up, but you realize that the fight is already over. The Burrow seems
+    to have won, but you feel that it''s too late.
+
+    
+
+    Everything is getting
+    dark.
+
+    End: Resistance.'
+  choices: []

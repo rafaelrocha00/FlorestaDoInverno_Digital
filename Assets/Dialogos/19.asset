@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7639417119aa64948be71180c67c19c2, type: 3}
+  m_Name: 19
+  m_EditorClassIdentifier: 
+  id: 19
+  illustration: 8
+  requirements: []
+  changestate: 0
+  DescricaoDeCena: "Voc\xEA e o Ratoulo aceitaram o convite. \n\n\xC9 a \xFAnica
+    forma de sobreviver. \n\nVoc\xEAs dois ganham fama rapidamente dentro do Covil,
+    com sua habilidade de ca\xE7a e agilidade, se tornando os membros mais respeitados
+    e temidos do local."
+  DescricaoDeCenaIngles: 'You and Ratoulo accepted the invitation.
+
+    
+
+    It
+    is the only way to survive.
+
+    
+
+    The two of you quickly gain fame within
+    the Lair, with your hunting skills and agility, becoming the most respected and
+    feared members of the place.'
+  choices:
+  - newScene: 20
+    name: Continuar
+    englishName: Continue

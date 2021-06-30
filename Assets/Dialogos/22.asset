@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7639417119aa64948be71180c67c19c2, type: 3}
+  m_Name: 22
+  m_EditorClassIdentifier: 
+  id: 22
+  illustration: 0
+  requirements:
+  - id: 0
+    state: 1
+  changestate: 0
+  DescricaoDeCena: "Voc\xEA \xE9 chutado para fora do Covil, como se n\xE3o fosse
+    nada, Apenas Ratoulo, n\xE3o seguindo o seu conselho, aceita a proposta.\n\nAlgumas
+    semanas depois do evento, a Toca \xE9 atacada pelo Covil. Ningu\xE9m morre, mas
+    isso deixa o lugar bastante debilitado, tanto em quest\xE3o de mantimentos, quanto
+    em moral.\n"
+  DescricaoDeCenaIngles: 'You are kicked out of the Lair, as if it were nothing.
+    Only Ratoulo, not following your advice, accepts the proposal.
+
+    
+
+    A
+    few weeks after the event, The Burrow is attacked by the Lair. Nobody dies, but
+    that leaves the place very weak, both in terms of supplies and in terms of morale.'
+  choices:
+  - newScene: 23
+    name: Continuar
+    englishName: Continue

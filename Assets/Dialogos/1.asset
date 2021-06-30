@@ -1,0 +1,53 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7639417119aa64948be71180c67c19c2, type: 3}
+  m_Name: 1
+  m_EditorClassIdentifier: Assembly-CSharp::Cenas
+  id: 0
+  illustration: 0
+  requirements: []
+  changestate: 0
+  DescricaoDeCena: "A floresta nunca foi um para\xEDso, mas os animais ali faziam
+    o melhor que conseguiam. \r\n\nFoi a\xED que o inverno chegou. \n\nComo uma foice,
+    ele cortou a vida dos habitantes, deixando para tr\xE1s a neve, que serviu de
+    t\xFAmulo. \n\nVoc\xEA conseguiu sobreviver, no in\xEDcio. Seus pais foram \xF3timos
+    ca\xE7adores, mas n\xE3o havia comida para todos e uma escolha teve de ser feita.
+    \n\n\nVoc\xEA agora vaga com seus irm\xE3os mais novos, sem casa e sem dire\xE7\xE3o. "
+  DescricaoDeCenaIngles: 'The forest was never a paradise, but the animals there
+    did the best they could.
+
+    
+
+    That was when winter came.
+
+    
+
+    Like
+    a scythe, it cut off the lives of the inhabitants, leaving behind the snow, which
+    served as a tomb.
+
+    
+
+    You managed to survive, in the beginning. Your
+    parents were great hunters, but there was no food for everyone and a choice had
+    to be made.
+
+    
+
+    
+
+    You now roam with your younger siblings, homeless
+    and without direction.'
+  choices:
+  - newScene: 1
+    name: Continuar
+    englishName: Continue

@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7639417119aa64948be71180c67c19c2, type: 3}
+  m_Name: 6
+  m_EditorClassIdentifier: 
+  id: 6
+  illustration: 4
+  requirements: []
+  changestate: 0
+  DescricaoDeCena: "Utilizando de sua for\xE7a descomunal, \r\nvoc\xEAs dois conseguem
+    construir a barragem e guardar \xE1gua.\n\nO projeto foi um sucesso e voc\xEA
+    ajudou v\xE1rias pessoas."
+  DescricaoDeCenaIngles: 'Using your extraordinary strength,
+
+    you two are able
+    to build the dam and store water.
+
+    
+
+    The project was a success and
+    you helped a lot of people.'
+  choices:
+  - newScene: 8
+    name: Continuar
+    englishName: Continue

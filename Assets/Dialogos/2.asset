@@ -1,0 +1,54 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7639417119aa64948be71180c67c19c2, type: 3}
+  m_Name: 2
+  m_EditorClassIdentifier: Assembly-CSharp::Cenas
+  id: 1
+  illustration: 1
+  requirements: []
+  changestate: 0
+  DescricaoDeCena: "Depois de tanto andar, seus irm\xE3os est\xE3o com fome. N\xE3o
+    s\xF3 eles, mas voc\xEA n\xE3o quer piorar a situa\xE7\xE3o. \n\n\nNo caminho,
+    voc\xEA encontra um amigo antigo e insistente, o Ratoulo, que como o nome diz,
+    \xE9 um rato que usa roupas de pano.\n\n\nEle diz que sabe como conseguir comida,
+    mas ser\xE1 arriscado. Voc\xEA sabe que n\xE3o \xE9 coisa boa, e ele n\xE3o \xE9
+    a pessoa mais confi\xE1vel. \n\nVoc\xEA olha para seus irm\xE3os. \n\nA escolha
+    \xE9 sua:"
+  DescricaoDeCenaIngles: 'After so much walk, your brothers are hungry. Not only
+    them, but you don''t want to make the situation any worse.
+
+
+
+    On the way,
+    you meet an old and insistent friend, Ratoulo, who as the name says, is a rat
+    that wears fabric clothes.
+
+
+
+    He says he knows how to get food, but it will
+    be risky. You know it is not a good thing, and he is not the most reliable person.
+
+
+
+    You
+    look at your brothers.
+
+
+
+    It''s your choice:'
+  choices:
+  - newScene: 4
+    name: Ir com Ratoulo
+    englishName: Go with Ratoulo
+  - newScene: 3
+    name: Procurar comida sozinha
+    englishName: Search food alone

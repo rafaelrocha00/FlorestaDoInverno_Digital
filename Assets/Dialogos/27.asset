@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7639417119aa64948be71180c67c19c2, type: 3}
+  m_Name: 27
+  m_EditorClassIdentifier: 
+  id: 27
+  illustration: 12
+  requirements:
+  - id: 2
+    state: 1
+  changestate: 1
+  DescricaoDeCena: "Matar nunca resolve nada, foi isso que te foi ensinado, e sabia
+    que era o certo a se fazer.\n\nAp\xF3s voc\xEA o poupar, Ratoulo se sentiu arrependido,
+    pois percebe como a Toca te mudou para melhor, enquanto ele estava cada vez mais
+    fundo nesse po\xE7o. \n\nEle percebeu que estava sozinho e que iria continuar
+    assim, se n\xE3o fizesse nada. O medo de morrer n\xE3o \xE9 t\xE3o grande como
+    o medo de n\xE3o ter ningu\xE9m. Ap\xF3s isso, voc\xEAs dois voltam a ser amigos
+    e voc\xEA o acolhe junto \xE0 Toca."
+  DescricaoDeCenaIngles: 'Killing never solves anything, that''s what you were taught,
+    and you knew it was the right thing to do.
+
+    
+
+    After you saved him,
+    Ratoulo felt sorry, because he realized how The Burrow changed you for the better,
+    while he was getting deeper and deeper in that well.
+
+    
+
+    He realized
+    that he was alone and that he would continue to be so if he did nothing. The
+    fear of death is not as great as the fear of having no one. After that, you two
+    become friends again and you welcome him to The Burrow.'
+  choices:
+  - newScene: 29
+    name: Continuar
+    englishName: Continue
+  - newScene: 30
+    name: Continuar
+    englishName: Continue
+  - newScene: 31
+    name: Continuar
+    englishName: Continue

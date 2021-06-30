@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7639417119aa64948be71180c67c19c2, type: 3}
+  m_Name: 28
+  m_EditorClassIdentifier: 
+  id: 28
+  illustration: 0
+  requirements: []
+  changestate: 0
+  DescricaoDeCena: "Voc\xEA fez o melhor que p\xF4de pela Toca, mesmo que para isso
+    tivesse que matar seu amigo. Foi o pre\xE7o a se pagar, ou pelo menos \xE9 o
+    que pensa."
+  DescricaoDeCenaIngles: "\rYou did the best you could for The Burrow , even if you
+    had to kill your friend for that. It was the price to pay, or at least that's
+    what you think."
+  choices:
+  - newScene: 29
+    name: Continuar
+    englishName: Continue
+  - newScene: 30
+    name: Continuar
+    englishName: Continue
+  - newScene: 31
+    name: Continuar
+    englishName: Continue

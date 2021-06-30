@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7639417119aa64948be71180c67c19c2, type: 3}
+  m_Name: 15
+  m_EditorClassIdentifier: 
+  id: 15
+  illustration: 10
+  requirements: []
+  changestate: 0
+  DescricaoDeCena: "Ratoulo e voc\xEA s\xE3o pegos perto do estoque, causando um
+    leve estranhamento aos que ali estavam. Voc\xEAs s\xE3o levados a L\xEDder do
+    Covil, Maria, uma raposa exuberante. \n\nEla ficou bastante impressionada com
+    a ousadia de tentarem roubar o estoque de comida  e pergunta se querem se unir
+    ao Covil. \n\nAp\xF3s voc\xEA questionar a respeito de seus irm\xE3os, Maria
+    afirma que toda essa hist\xF3ria n\xE3o passa de uma mentira com o intuito de
+    difamar o Covil.  "
+  DescricaoDeCenaIngles: 'You and Ratoulo are caught close to the stock, causing
+    a slight strangeness to those who were there. You are taken to Leader of the
+    Lair, Maria, an exuberant fox.
+
+    
+
+    She was very impressed by the boldness
+    of trying to steal the food supply and asks if you want to join the Lair.
+
+    
+
+    After
+    you question about your brothers, Maria says that this whole story is just a
+    lie in order to defame The Lair.'
+  choices:
+  - newScene: 19
+    name: Aliar-se ao Covil
+    englishName: Join The Lair
+  - newScene: 21
+    name: Ir embora
+    englishName: Go Away
+  - newScene: 22
+    name: Ir embora
+    englishName: Go Away
